@@ -15,9 +15,9 @@ import java.util.LinkedList;
 public class Graph {
 
     /**
-     * @param args the command line arguments 4. Napisati funkciju koja
-     * proverava da li je graf cikličan. Napisati program koji testira ovu
-     * funkciju.
+     * @param args the command line arguments 
+     *4. Napisati funkciju koja proverava da li je graf cikličan. 
+     *Napisati program koji testira ovu funkciju.
      */
     private int V;
     private LinkedList<Integer> adj[];
