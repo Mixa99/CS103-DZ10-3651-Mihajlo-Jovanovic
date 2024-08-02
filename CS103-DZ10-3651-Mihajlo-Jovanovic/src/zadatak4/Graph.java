@@ -10,7 +10,7 @@ import java.util.LinkedList;
 
 /**
  *
- * @author Mixa
+ * @author Mixa - Mixa
  */
 public class Graph {
 
